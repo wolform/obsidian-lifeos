@@ -1,0 +1,23 @@
+summaries:
+  Empty: values.filter(value.isType("null")).length
+  Unique: values.unique().length
+filters:
+  and:
+    - '!file.name.contains("base")'
+    - file.tags.contains("daily-log")
+    - file.name.contains("2026")
+properties:
+  file.name:
+    displayName: Name
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - Mood
+      - Health
+      - Reading/Studying
+    sort: []
+    columnSize:
+      file.name: 123
+      note.Reading/Studying: 156

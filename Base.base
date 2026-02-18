@@ -1,0 +1,15 @@
+properties:
+  file.name:
+    displayName: Name
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.path.contains(".base")
+    order:
+      - file.name
+    sort: []
+    columnSize:
+      file.name: 125
+    cardSize: 250
