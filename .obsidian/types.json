@@ -29,6 +29,7 @@
     "TQ_show_tree": "checkbox",
     "TQ_show_urgency": "checkbox",
     "start time": "datetime",
-    "end time": "datetime"
+    "end time": "datetime",
+    "Cups of Water": "number"
   }
 }

@@ -1,0 +1,58 @@
+{
+  "workoutsFolder": "00 - BulletJournal/Workout",
+  "additionalExerciseParams": [
+    {
+      "name": "Sets",
+      "type": "string"
+    },
+    {
+      "name": "Reps",
+      "type": "number"
+    },
+    {
+      "name": "Mins",
+      "type": "string"
+    },
+    {
+      "name": "Weight",
+      "type": "string"
+    }
+  ],
+  "muscleGroups": [
+    "Chest",
+    "Shoulders & arms ",
+    "Back",
+    "Legs",
+    "Bodyweight"
+  ],
+  "exercises": [
+    {
+      "name": "Dumbbell Chest press",
+      "muscleGroup": "Chest"
+    },
+    {
+      "name": "Squat",
+      "muscleGroup": "Legs"
+    },
+    {
+      "name": "Later raise",
+      "muscleGroup": "Shoulders & arms "
+    },
+    {
+      "name": "One arm row",
+      "muscleGroup": "Back"
+    },
+    {
+      "name": "Bent row",
+      "muscleGroup": "Back"
+    },
+    {
+      "name": "Pull up",
+      "muscleGroup": "Bodyweight"
+    },
+    {
+      "name": "Plank",
+      "muscleGroup": "Bodyweight"
+    }
+  ]
+}

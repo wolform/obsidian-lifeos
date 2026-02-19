@@ -22,20 +22,119 @@
             }
           },
           {
-            "id": "2ba7218212891e77",
+            "id": "ecb6622937e86b7a",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Base.base",
-                "viewName": "Table"
+                "file": "00 - BulletJournal/2026/02/2026-02-20.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "Base"
+              "icon": "lucide-file",
+              "title": "2026-02-20"
+            }
+          },
+          {
+            "id": "5de2218eac92c70e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 - BulletJournal/Workout/Dumbbell Chest Press.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Dumbbell Chest Press"
+            }
+          },
+          {
+            "id": "feed5a214c4c2d30",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 - BulletJournal/Workout/Squat.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Squat"
+            }
+          },
+          {
+            "id": "63d11f66abb0ff2b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 - BulletJournal/Workout/Later Raise.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Later Raise"
+            }
+          },
+          {
+            "id": "36ee14c97f55f256",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 - BulletJournal/Workout/One Arm Row.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "One Arm Row"
+            }
+          },
+          {
+            "id": "46102bed602e0011",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 - BulletJournal/Workout/Pull Up.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Pull Up"
+            }
+          },
+          {
+            "id": "3438ec2e370cdd72",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 - BulletJournal/Workout/Plank.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Plank"
+            }
+          },
+          {
+            "id": "a9fbb946edbb80a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 - BulletJournal/2026/02/2026-02-19.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-02-19"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -103,25 +202,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d076cdd9dc124bcd",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "2026/2026-02-17.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for 2026-02-17"
-            }
-          },
-          {
             "id": "25e574491f11adbf",
             "type": "leaf",
             "state": {
@@ -156,17 +236,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 - BulletJournal/Event.base",
+                "file": "00 - BulletJournal/2026/02/2026-02-19.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Event"
+              "title": "Outline of 2026-02-19"
             }
           },
           {
-            "id": "13305177caafcc80",
+            "id": "db5a3fd6743d42c6",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -176,7 +256,7 @@
             }
           },
           {
-            "id": "e1c3567bdb0b3961",
+            "id": "c156b4aac6d7476a",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -186,7 +266,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -195,7 +275,6 @@
   "left-ribbon": {
     "hiddenItems": {
       "daily-notes:Open today's daily note": false,
-      "bases:Create new base": false,
       "templates:Insert template": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -203,46 +282,16 @@
       "command-palette:Open command palette": false,
       "audio-recorder:Start/stop recording": false,
       "templater-obsidian:Templater": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "workout-tracker:Add workout": false,
+      "workout-tracker:Statistic": false,
+      "bases:Create new base": false
     }
   },
   "floating": {
     "id": "01bb74b9094fb377",
     "type": "floating",
     "children": [
-      {
-        "id": "4527589750bc2ff9",
-        "type": "window",
-        "children": [
-          {
-            "id": "5c95094fa129951d",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "3a142044b6099345",
-                "type": "leaf",
-                "state": {
-                  "type": "webviewer",
-                  "state": {
-                    "url": "https://jamiebrynes7.github.io/obsidian-todoist-plugin/docs/setup",
-                    "title": "Setup | Sync with Todoist Plugin",
-                    "mode": "webview"
-                  },
-                  "icon": "globe-2",
-                  "title": "Setup | Sync with Todoist Plugin"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 448,
-        "y": 120,
-        "width": 1024,
-        "height": 800,
-        "maximize": false,
-        "zoom": 0
-      },
       {
         "id": "bbe6328700623824",
         "type": "window",
@@ -279,8 +328,106 @@
                   "title": "Download GitHub Desktop | GitHub Desktop"
                 }
               }
-            ],
-            "currentTab": 1
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 448,
+        "y": 120,
+        "width": 1024,
+        "height": 800,
+        "maximize": false,
+        "zoom": 0
+      },
+      {
+        "id": "df5875cb229de0e9",
+        "type": "window",
+        "children": [
+          {
+            "id": "4b624468631c664c",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "cf10b26020f50a1f",
+                "type": "leaf",
+                "state": {
+                  "type": "webviewer",
+                  "state": {
+                    "url": "https://jamiebrynes7.github.io/obsidian-todoist-plugin/docs/setup/",
+                    "title": "Setup | Sync with Todoist Plugin",
+                    "mode": "webview"
+                  },
+                  "icon": "globe-2",
+                  "title": "Setup | Sync with Todoist Plugin"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 448,
+        "y": 120,
+        "width": 1024,
+        "height": 800,
+        "maximize": false,
+        "zoom": 0
+      },
+      {
+        "id": "acf24037e8b0ec35",
+        "type": "window",
+        "children": [
+          {
+            "id": "df660f98d2bf3b8a",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "62cbc050e760b3fe",
+                "type": "leaf",
+                "state": {
+                  "type": "webviewer",
+                  "state": {
+                    "url": "https://publish.obsidian.md/tasks/Getting+Started/Statuses",
+                    "title": "Statuses - Tasks User Guide - Obsidian Publish",
+                    "mode": "webview"
+                  },
+                  "icon": "globe-2",
+                  "title": "Statuses - Tasks User Guide - Obsidian Publish"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 448,
+        "y": 120,
+        "width": 1024,
+        "height": 800,
+        "maximize": false,
+        "zoom": 0
+      },
+      {
+        "id": "c9cb3b2ad9178a2e",
+        "type": "window",
+        "children": [
+          {
+            "id": "cc918ad33c5caa90",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "56a94241d884012c",
+                "type": "leaf",
+                "state": {
+                  "type": "webviewer",
+                  "state": {
+                    "url": "https://tfthacker.com/BRAT",
+                    "title": "Introduction to the Beta Reviewer's Auto-update Tool - Toolbox for Thought",
+                    "mode": "webview"
+                  },
+                  "icon": "globe-2",
+                  "title": "Introduction to the Beta Reviewer's Auto-update Tool - Toolbox for Thought"
+                }
+              }
+            ]
           }
         ],
         "direction": "vertical",
@@ -293,34 +440,43 @@
       }
     ]
   },
-  "active": "13305177caafcc80",
+  "active": "a9fbb946edbb80a6",
   "lastOpenFiles": [
+    "00 - BulletJournal/Workout/Bent Row.md",
+    "Pasted image 20260219220203.png",
+    "00 - BulletJournal/Workout/Plank.md",
+    "00 - BulletJournal/Workout/Pull Up.md",
+    "00 - BulletJournal/Workout/One Arm Row.md",
+    "00 - BulletJournal/Workout/Later Raise.md",
     "Crush meeting.md",
+    "00 - BulletJournal/Workout/Squat.md",
+    "00 - BulletJournal/Workout/Dumbbell Chest Press.md",
+    "00 - BulletJournal/2026/02/2026-02-19.md",
+    "50 - Template/Workout.md",
+    "00 - BulletJournal/2026/02/2026-02-20.md",
+    "00 - BulletJournal/Workout/2026-02-20/Squat-2.md",
+    "50 - Template/Workout.md",
+    "00 - BulletJournal/Workout/2026-02-19/Dumbbell Chest press-1.md",
+    "00 - BulletJournal/Workout/2026-02-20",
+    "00 - BulletJournal/Workout/2026-02-19/Squat-2.md",
+    "00 - BulletJournal/Workout/2026-02-19",
+    "00 - BulletJournal/Workout",
+    "00 - BulletJournal/2026/DailyLog.base",
+    "98 - Template/Daily Log.md",
+    "00 - BulletJournal/2026/02/2026-02-18.md",
+    "00 - BulletJournal/2026/02/2026-02-21.md",
+    "00 - BulletJournal/2026/02/2026-02-22.md",
+    "00 - BulletJournal/2026/Future Log 2026.md",
     "Base.base",
+    "00 - BulletJournal/2026/02/2026-02-23.md",
+    "00 - BulletJournal/Event.base",
+    "00 - BulletJournal/2026/02/2026-02-17.md",
+    "00 - BulletJournal/2026/02/2026-02-16.md",
     "obsidian-lifeos",
     "00 - BulletJournal/2026/02/2026-02-28.md",
-    "50 - Template/Daily Log.md",
-    "00 - BulletJournal/Event.base",
-    "Untitled.md",
-    "00 - BulletJournal/2026/02/2026-02-18.md",
-    "00 - BulletJournal/2026/Future Log 2026.md",
-    "00 - BulletJournal/2026/DailyLog.base",
-    "00 - BulletJournal/2026/02/2026-02-16.md",
-    "00 - BulletJournal/2026/02/2026-02-17.md",
     "00 - BulletJournal/2026-02-17.md",
     "00 - BulletJournal",
-    "Untitled 1.md",
     "00 - BulletJournal/2026/02",
-    "2026-02-17.md",
-    "2026-02-16.md",
-    "2026/Untitled 1.md",
-    "00 - BulletJournal/2026",
-    "Template/Daily Log - {{date}} {{time}} 1.md",
-    "2026-02-16 1.md",
-    "50 - Template",
-    "345.md",
-    "99 - Archive/Welcome.md",
-    "Untitled 1.base",
-    "db.base"
+    "00 - BulletJournal/2026"
   ]
 }

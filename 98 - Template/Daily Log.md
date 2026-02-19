@@ -2,8 +2,8 @@
 tags:
   - daily-log
 Mood:
-  - Quite Good
 Health:
-  - Normal
+Studying:
+Water:
 ---
 

@@ -9,6 +9,8 @@ filters:
 properties:
   file.name:
     displayName: Name
+  note.Cups of Water:
+    displayName: Drink Water
 views:
   - type: table
     name: Table
@@ -16,8 +18,12 @@ views:
       - file.name
       - Mood
       - Health
+      - Drink Water
       - Reading/Studying
-    sort: []
+    sort:
+      - property: file.name
+        direction: DESC
     columnSize:
       file.name: 123
-      note.Reading/Studying: 156
+      note.Drink Water: 133
+      note.Reading/Studying: 176
