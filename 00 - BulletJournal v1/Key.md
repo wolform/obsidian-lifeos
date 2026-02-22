@@ -1,0 +1,9 @@
+- [ ] `space` todo
+- [/] `/` imcomplete
+- [x] `x` complete
+- [-] `-` cancelled
+- [>] `>` migrate
+- [<] `<` schedule
+- [b] `b` event
+- ["] `"` quote
+- note 

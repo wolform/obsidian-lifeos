@@ -1,0 +1,20 @@
+properties:
+  file.name:
+    displayName: name
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.tags.contains("event")
+    order:
+      - file.name
+      - tags
+      - start time
+      - end time
+      - location
+    sort: []
+    columnSize:
+      file.name: 109
+      note.start time: 160
+      note.end time: 168
