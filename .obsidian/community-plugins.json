@@ -2,6 +2,8 @@
   "templater-obsidian",
   "calendar",
   "obsidian-git",
-  "workout-tracker",
-  "periodic-notes"
+  "periodic-notes",
+  "obsidian-kanban",
+  "quickadd",
+  "obsidian-rollover-daily-todos"
 ]

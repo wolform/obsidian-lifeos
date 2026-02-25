@@ -1,0 +1,197 @@
+{
+  "main": {
+    "id": "ff9e64fe926f651b",
+    "type": "split",
+    "children": [
+      {
+        "id": "7075f79614f77957",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "df3c3d9e25adbc81",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9dae3ffb9432d814",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "b18a6f3374cb944e",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "c2fa52e20a70f096",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "b1b5582d367583b8",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "820f513d79554a57",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "All properties"
+        }
+      },
+      {
+        "id": "382beb7c6455d1c2",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "959e11b887be0cd4",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "59ec64a7f6133e23",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "1f2848d6d4ca7854",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "aa9df05fcad3102f",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "df3c3d9e25adbc81",
+  "lastOpenFiles": [
+    "00 - BulletJournal v2/Workout/One Arm Row.md",
+    "00 - BulletJournal v1/Workout/Bent Row.md",
+    "98 - Template/Monthly Log.md",
+    "00 - BulletJournal v1/Workout/Later Raise.md",
+    "00 - BulletJournal v1/Workout/Plank.md",
+    "00 - BulletJournal v2/Workout/Later Raise.md",
+    "00 - BulletJournal v1/Workout/Squat.md",
+    "00 - BulletJournal v1/Workout/Dumbbell Chest Press.md",
+    "00 - BulletJournal v2/Workout/Dumbbell Chest Press.md",
+    "00 - BulletJournal v2/Workout/Bent Row.md",
+    "00 - BulletJournal v1/Workout/One Arm Row.md",
+    "00 - BulletJournal v2/Workout/Squat.md",
+    "00 - BulletJournal v2/Workout/Plank.md",
+    "00 - BulletJournal v2/01 - Daily/2026-02-16.md",
+    "00 - BulletJournal v1/2026/02/2026-02-17.md",
+    "00 - BulletJournal v1/2026/02/2026-02-16.md",
+    "00 - BulletJournal v1/Workout/Pull Up.md",
+    "00 - BulletJournal v2/Workout/Pull Up.md",
+    "98 - Template/Weekly Log.md",
+    "Chinese New Year.md",
+    "99 - Archive",
+    "98 - Template/v2",
+    "98 - Template",
+    "00 - BulletJournal v1/2026/02",
+    "00 - BulletJournal v1/Workout",
+    "00 - BulletJournal v1/2026",
+    "00 - BulletJournal v1",
+    "00 - BulletJournal v2/03 - Monthly",
+    "00 - BulletJournal v2/01 - Daily",
+    "00 - BulletJournal v2/Workout"
+  ]
+}

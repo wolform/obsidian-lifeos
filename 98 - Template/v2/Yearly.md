@@ -1,6 +1,7 @@
 ---
 year: <% tp.date.now("YYYY") %>
-tags: [yearly]
+tags:
+  - yearly-log
 ---
 
 # <% tp.date.now("YYYY") %> Annual Review & Planning  // e.g. 2026

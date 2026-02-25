@@ -1,7 +1,8 @@
 ---
 month: <% tp.date.now("YYYY-MM") %>
 year: <% tp.date.now("YYYY") %>
-tags: [monthly]
+tags:
+  - monthly-log
 ---
 
 # <% tp.date.now("MMMM YYYY") %>
