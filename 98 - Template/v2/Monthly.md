@@ -4,7 +4,7 @@ year: <% tp.date.now("YYYY") %>
 tags: [monthly]
 ---
 
-# <% tp.date.now("MMMM YYYY") %>  // e.g. February 2026
+# <% tp.date.now("MMMM YYYY") %>
 
 ## Monthly Goals
 1. 

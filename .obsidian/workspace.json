@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 - BulletJournal v2/01 - Daily/2026-02-22.md",
+                "file": "00 - BulletJournal v2/01 - Daily/2026-02-24.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-02-22"
+              "title": "2026-02-24"
             }
           }
         ],
@@ -82,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:daily",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -238,61 +238,34 @@
       "periodic-notes:Open today": false
     }
   },
-  "floating": {
-    "id": "01bb74b9094fb377",
-    "type": "floating",
-    "children": [
-      {
-        "id": "acf24037e8b0ec35",
-        "type": "window",
-        "children": [
-          {
-            "id": "df660f98d2bf3b8a",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "62cbc050e760b3fe",
-                "type": "leaf",
-                "state": {
-                  "type": "webviewer",
-                  "state": {
-                    "url": "https://publish.obsidian.md/tasks/Getting+Started/Statuses",
-                    "title": "Statuses - Tasks User Guide - Obsidian Publish",
-                    "mode": "webview"
-                  },
-                  "icon": "globe-2",
-                  "title": "Statuses - Tasks User Guide - Obsidian Publish"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 448,
-        "y": 120,
-        "width": 1024,
-        "height": 800,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "6c65042fb44bda72",
   "lastOpenFiles": [
+    "iCloudDrive/iCloud~md~obsidian/desktop.ini",
+    "iCloudDrive/iCloud~md~obsidian",
+    "iCloudDrive/iCloud~is~workflow~my~workflows/desktop.ini",
+    "iCloudDrive/iCloud~is~workflow~my~workflows",
+    "iCloudDrive/TutorMicrosoft/ScreenCaptureProject2.mp4",
+    "iCloudDrive/TutorMicrosoft/ScreenCaptureProject1.mp4",
+    "iCloudDrive/TutorMicrosoft",
+    "iCloudDrive/SmartPLAY/1703512999765.pdf",
+    "iCloudDrive/SmartPLAY",
+    "iCloudDrive/Private Doc/eStatementFile_20240523101230.pdf",
+    "iCloudDrive/Private Doc/eStatementFile_20240523101214.pdf",
+    "iCloudDrive/Downloads/wp6540935-solo-leveling-hd-iphone-wallpapers.png",
+    "iCloudDrive/Downloads/qr-code.png",
+    "2026-02-25.md",
+    "00 - BulletJournal v2/01 - Daily/2026-02-24.md",
     "00 - BulletJournal v2/01 - Daily/2026-02-23.md",
-    "00 - BulletJournal v2/01 - Daily/2026-02-22.md",
-    "00 - BulletJournal v2/01 - Daily/2026-02-21.md",
     "98 - Template/v2/Daily.md",
-    "00 - BulletJournal v2/Key.md",
     "98 - Template/v2/Yearly.md",
-    "00 - BulletJournal v2/04 - Yearly",
-    "98 - Template/v2/Monthly.md",
     "98 - Template/v2/Weekly.md",
+    "98 - Template/v2/Monthly.md",
+    "00 - BulletJournal v2/01 - Daily/2026-02-22.md",
+    "2026-02-24.md",
+    "00 - BulletJournal v2/01 - Daily/2026-02-21.md",
+    "00 - BulletJournal v2/Key.md",
     "98 - Template/Daily Log.md",
-    "98 - Template/v2",
     "98 - Template/Monthly Log.md",
-    "00 - BulletJournal v2/03 - Monthly",
-    "00 - BulletJournal v2/02 - Weekly",
     "00 - BulletJournal v1/2026/02/2026-02-22.md",
     "00 - BulletJournal v1/2026/02/2026-02-21.md",
     "00 - BulletJournal v1/2026/02/2026-02-20.md",
@@ -305,16 +278,6 @@
     "00 - BulletJournal v1/Workout/Plank.md",
     "00 - BulletJournal v1/Workout/One Arm Row.md",
     "00 - BulletJournal v1/Workout/Later Raise.md",
-    "00 - BulletJournal v1/Workout/Dumbbell Chest Press.md",
-    "00 - BulletJournal v1/Workout/Bent Row.md",
-    "00 - BulletJournal v1/2026/Future Log 2026.md",
-    "00 - BulletJournal v1/2026/DailyLog.base",
-    "00 - BulletJournal v1/2026/02",
-    "00 - BulletJournal v1/Workout",
-    "00 - BulletJournal v1/Key.md",
-    "00 - BulletJournal v1/Event.base",
-    "00 - BulletJournal v1/2026",
-    "00 - BulletJournal v1",
     "Pasted image 20260219220203.png"
   ]
 }

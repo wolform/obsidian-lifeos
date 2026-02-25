@@ -1,11 +1,11 @@
 ---
 date: <% tp.date.now("YYYY-MM-DD") %>
 week: <% tp.date.now("YYYY-[W]WW") %>
-tags: [daily]
+tags:
+  - daily
 ---
 
-# <% tp.date.now("YYYY-MM-DD dddd") %>  // e.g. 2026-02-22 Sunday
-
+# <% tp.date.now("YYYY-MM-DD dddd") %>
 ## Tasks
 - [ ] 
 
