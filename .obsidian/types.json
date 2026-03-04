@@ -30,6 +30,7 @@
     "TQ_show_urgency": "checkbox",
     "start time": "datetime",
     "end time": "datetime",
-    "Cups of Water": "number"
+    "Cups of Water": "number",
+    "stressing": "checkbox"
   }
 }

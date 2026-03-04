@@ -1,0 +1,20 @@
+{
+  "nutrientDirectory": "nutrients",
+  "totalDisplayMode": "document",
+  "foodTag": "food",
+  "workoutTag": "workout",
+  "goalsFile": "nutrition-goals.md",
+  "showCalorieHints": true,
+  "dailyNoteFormat": "YYYY-MM-DD",
+  "frontmatterFieldNames": {
+    "calories": "ft-calories",
+    "fats": "ft-fats",
+    "saturated_fats": "ft-saturated_fats",
+    "protein": "ft-protein",
+    "carbs": "ft-carbs",
+    "fiber": "ft-fiber",
+    "sugar": "ft-sugar",
+    "sodium": "ft-sodium"
+  },
+  "linkType": "wikilink"
+}

@@ -1,70 +1,37 @@
 {
   "main": {
-    "id": "f57621c9d952e404",
+    "id": "d4bb667b53370e26",
     "type": "split",
     "children": [
       {
-        "id": "78dd126f67767f95",
+        "id": "95faf71412d04600",
         "type": "tabs",
         "children": [
           {
-            "id": "0905d6a07c177196",
+            "id": "ffdf35210486332f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Archive/Welcome.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Welcome"
-            }
-          },
-          {
-            "id": "ecb6622937e86b7a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Reflection.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Reflection"
-            }
-          },
-          {
-            "id": "6c65042fb44bda72",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 - BulletJournal v2/01 - Daily/2026-02-25.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2026-02-25"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "acd118cb55189ef1",
+    "id": "0dcba6f8031efe74",
     "type": "split",
     "children": [
       {
-        "id": "1c32b33509f0baa7",
+        "id": "44190a592c1c9f60",
         "type": "tabs",
         "children": [
           {
-            "id": "17ed07d73302fbe3",
+            "id": "3425066229a6384d",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -77,12 +44,12 @@
             }
           },
           {
-            "id": "d05aa399615d4577",
+            "id": "438db24839d8723e",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:monthly",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +61,7 @@
             }
           },
           {
-            "id": "bdfec5f48c76b70a",
+            "id": "fb94dafb725590ac",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -110,15 +77,46 @@
     "width": 300
   },
   "right": {
-    "id": "254d05e97240f3f3",
+    "id": "150f15e1fb59b99a",
     "type": "split",
     "children": [
       {
-        "id": "6867b7e7ea211430",
+        "id": "4bc34e99fa1811ec",
         "type": "tabs",
         "children": [
           {
-            "id": "25e574491f11adbf",
+            "id": "3b8f9d3854a5d219",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "a848f1d9b953f699",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "4ab379005af3957a",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -133,7 +131,7 @@
             }
           },
           {
-            "id": "17561336d9634f02",
+            "id": "e486320bc82b914f",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -147,22 +145,21 @@
             }
           },
           {
-            "id": "fda5988fe50c59b4",
+            "id": "47d67b703cee4e94",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 - BulletJournal/2026/02/2026-02-19.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2026-02-19"
+              "title": "Outline"
             }
           },
           {
-            "id": "db5a3fd6743d42c6",
+            "id": "e45133797cc76f06",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -172,7 +169,7 @@
             }
           },
           {
-            "id": "c156b4aac6d7476a",
+            "id": "dcc07b85b09d3240",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -180,42 +177,9 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
-          },
-          {
-            "id": "cac45f9bd7f1c8d6",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Reflection.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for Reflection"
-            }
-          },
-          {
-            "id": "d233fea92403cafa",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "00 - BulletJournal v2/01 - Daily/2026-02-22.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from 2026-02-22"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -223,62 +187,62 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "audio-recorder:Start/stop recording": false,
+      "bases:Create new base": false,
       "templater-obsidian:Templater": false,
       "obsidian-git:Open Git source control": false,
-      "workout-tracker:Add workout": false,
-      "workout-tracker:Statistic": false,
-      "bases:Create new base": false,
       "periodic-notes:Open today": false,
-      "obsidian-kanban:Create new board": false
+      "obsidian-kanban:Create new board": false,
+      "food-tracker:Open nutrition statistics": false
     }
   },
-  "active": "c156b4aac6d7476a",
+  "floating": {
+    "id": "d094e465d4285e19",
+    "type": "floating",
+    "children": [
+      {
+        "id": "5f7cf3af4f415354",
+        "type": "window",
+        "children": [
+          {
+            "id": "b625300699bf7cc5",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "47cafc571484e1d2",
+                "type": "leaf",
+                "state": {
+                  "type": "webviewer",
+                  "state": {
+                    "url": "https://quickadd.obsidian.guide/docs/Examples/Capture_AddJournalEntry",
+                    "title": "Capture: Add journal entry | QuickAdd",
+                    "mode": "webview"
+                  },
+                  "icon": "globe-2",
+                  "title": "Capture: Add journal entry | QuickAdd"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 448,
+        "y": 120,
+        "width": 1024,
+        "height": 800,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "ffdf35210486332f",
   "lastOpenFiles": [
-    "98 - Template/v2/Daily.md",
-    "00 - BulletJournal v2/01 - Daily/2026-02-24.md",
-    "00 - BulletJournal v2/01 - Daily/2026-02-25.md",
-    "00 - BulletJournal v2/01 - Daily/2026-02-23.md",
-    "00 - BulletJournal v2/02 - Weekly/2026-W09.md",
-    "98 - Template/v2/Weekly.md",
-    "98 - Template/v2/Monthly.md",
-    "00 - BulletJournal v2/03 - Monthly/2026-02.md",
-    "98 - Template/Daily Log.md",
-    "98 - Template/v2/Yearly.md",
-    "iCloudDrive/iCloud~md~obsidian/desktop.ini",
-    "iCloudDrive/iCloud~md~obsidian",
-    "iCloudDrive/iCloud~is~workflow~my~workflows/desktop.ini",
-    "iCloudDrive/iCloud~is~workflow~my~workflows",
-    "iCloudDrive/TutorMicrosoft/ScreenCaptureProject2.mp4",
-    "iCloudDrive/TutorMicrosoft/ScreenCaptureProject1.mp4",
-    "iCloudDrive/TutorMicrosoft",
-    "iCloudDrive/SmartPLAY/1703512999765.pdf",
-    "iCloudDrive/SmartPLAY",
-    "iCloudDrive/Private Doc/eStatementFile_20240523101230.pdf",
-    "iCloudDrive/Downloads/wp6540935-solo-leveling-hd-iphone-wallpapers.png",
-    "iCloudDrive/Downloads/qr-code.png",
-    "2026-02-25.md",
-    "00 - BulletJournal v2/01 - Daily/2026-02-22.md",
-    "2026-02-24.md",
-    "00 - BulletJournal v2/01 - Daily/2026-02-21.md",
-    "00 - BulletJournal v2/Key.md",
-    "98 - Template/Monthly Log.md",
-    "00 - BulletJournal v1/2026/02/2026-02-22.md",
-    "00 - BulletJournal v1/2026/02/2026-02-21.md",
-    "00 - BulletJournal v1/2026/02/2026-02-20.md",
-    "00 - BulletJournal v1/2026/02/2026-02-19.md",
-    "00 - BulletJournal v1/2026/02/2026-02-18.md",
-    "00 - BulletJournal v1/2026/02/2026-02-17.md",
-    "00 - BulletJournal v1/2026/02/2026-02-16.md",
-    "00 - BulletJournal v1/Workout/Squat.md",
-    "00 - BulletJournal v1/Workout/Pull Up.md",
-    "00 - BulletJournal v1/Workout/Plank.md",
-    "Pasted image 20260219220203.png"
+    "00 - BulletJournal v2/01 - Daily/2026-03-04.md"
   ]
 }

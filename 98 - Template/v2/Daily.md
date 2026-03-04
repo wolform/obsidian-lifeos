@@ -7,13 +7,19 @@ Mood:
 Health:
 Studying:
 Water:
+stressing:
 ---
 # <% tp.date.now("YYYY-MM-DD dddd") %>
 ## Tasks
 - [ ] 
 ## Event
-- [b] 
+```tasks
+not done
+due today
+```
+
 ## Notes
+- 
 ---
 ## Affirmation
 -  
