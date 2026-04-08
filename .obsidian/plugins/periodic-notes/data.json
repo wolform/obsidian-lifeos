@@ -3,20 +3,20 @@
   "hasMigratedDailyNoteSettings": true,
   "hasMigratedWeeklyNoteSettings": false,
   "daily": {
-    "folder": "00 - BulletJournal v2/01 - Daily",
+    "folder": "01 - BulletJournal v2/01 - Daily",
     "template": "98 - Template/v2/Daily.md",
     "enabled": true
   },
   "weekly": {
     "format": "",
     "template": "98 - Template/v2/Weekly.md",
-    "folder": "00 - BulletJournal v2/02 - Weekly",
+    "folder": "01 - BulletJournal v2/02 - Weekly",
     "enabled": true
   },
   "monthly": {
     "format": "",
     "template": "98 - Template/v2/Monthly.md",
-    "folder": "00 - BulletJournal v2/03 - Monthly",
+    "folder": "01 - BulletJournal v2/03 - Monthly",
     "enabled": true
   },
   "quarterly": {
@@ -27,7 +27,7 @@
   "yearly": {
     "format": "",
     "template": "98 - Template/v2/Yearly.md",
-    "folder": "00 - BulletJournal v2/04 - Yearly",
+    "folder": "01 - BulletJournal v2/04 - Yearly",
     "enabled": true
   }
 }
