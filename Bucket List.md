@@ -1,0 +1,5 @@
+- [x] Buying House ✅ 2026-05-18
+- [ ] Being strong (nice bodybuilding)
+- [ ] Travelling to Japan
+- [ ] Playing guitar well
+- [ ] 
