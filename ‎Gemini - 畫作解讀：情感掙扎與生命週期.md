@@ -1,1 +1,0 @@
-[‎Gemini - 畫作解讀：情感掙扎與生命週期](https://g.co/gemini/share/f50eee0b102b)
