@@ -1,0 +1,2 @@
+- remind/Remember where the main switches(electric/water/...) are
+- 
