@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - BulletJournal v2/01 - Daily/2026-07-26.md",
+                "file": "01 - BulletJournal v2/📊 LifeOS Dashboard.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-07-26"
+              "title": "📊 LifeOS Dashboard"
             }
           }
         ],
@@ -250,13 +250,31 @@
       "obsidian-git:Open Git source control": false,
       "obsidian-kanban:Create new board": false,
       "food-tracker:Open nutrition statistics": false,
-      "periodic-notes:Open today": false
+      "periodic-notes:Open today": false,
+      "copilot:Open Copilot Chat": false
     }
   },
   "active": "844f356ef0a2cbd5",
   "lastOpenFiles": [
-    "Profile/Sammi.md",
     "01 - BulletJournal v2/01 - Daily/2026-07-26.md",
+    "copilot/copilot-custom-prompts/Clip Web Page.md",
+    "copilot/copilot-custom-prompts/Clip YouTube Transcript.md",
+    "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
+    "copilot/copilot-custom-prompts/Rewrite as tweet.md",
+    "copilot/copilot-custom-prompts/Remove URLs.md",
+    "copilot/copilot-custom-prompts/Generate glossary.md",
+    "copilot/copilot-custom-prompts/Generate table of contents.md",
+    "copilot/copilot-custom-prompts/Make longer.md",
+    "copilot/copilot-custom-prompts/Make shorter.md",
+    "copilot/copilot-custom-prompts/Emojify.md",
+    "copilot/copilot-custom-prompts/Explain like I am 5.md",
+    "copilot/copilot-custom-prompts/Simplify.md",
+    "copilot/copilot-custom-prompts/Summarize.md",
+    "copilot/copilot-custom-prompts/Translate to Chinese.md",
+    "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
+    "copilot/copilot-custom-prompts",
+    "copilot",
+    "Profile/Sammi.md",
     "Profile/Bonnie.md",
     "私教5.0/私教5.0.34.md",
     "私教5.0/私教5.0.33.md",
@@ -268,21 +286,6 @@
     "私教5.0/私教5.0.31.md",
     "私教5.0/私教5.0.30.md",
     "私教5.0/私教5.0.29.md",
-    "私教5.0/私教5.0.8.md",
-    "私教5.0/私教5.0.10.md",
-    "私教5.0/私教5.0.27.md",
-    "私教5.0/私教5.0.28.md",
-    "私教5.0/私教5.0.1.md",
-    "私教5.0/社交.md",
-    "私教5.0/私教5.0.3.md",
-    "私教5.0/私教5.0.7.md",
-    "私教5.0/私教5.0.2.md",
-    "私教5.0/私教5.0.22.md",
-    "私教5.0/私教5.0.21.md",
-    "私教5.0/私教5.0.20.md",
-    "私教5.0/私教5.0.19.md",
-    "私教5.0/私教5.0.18.md",
-    "私教5.0/私教5.0.17.md",
     "On Lai Court Move-in",
     "Pasted image 20260523181628.png",
     "Pasted image 20260521203556.png",
@@ -292,8 +295,6 @@
     "Personal",
     "Profile",
     "Pasted image 20260516201524.png",
-    "私教5.0",
-    "00 - BulletJournal v2/01 - Daily",
-    "00 - BulletJournal v2"
+    "私教5.0"
   ]
 }
